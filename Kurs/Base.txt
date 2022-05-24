@@ -1,0 +1,5 @@
+4
+VictorKorneplod Krushovice,6 88005553535 1
+SanekVporydke Krushovice,7 89005553535 0
+KolyaPodic Moskovskaya,13 84958858585 1
+RomanDoskoy Novoslobodskaya,45K2 81234567890 0
