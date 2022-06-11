@@ -1,0 +1,4 @@
+﻿  Kurs.cpp
+C:\Users\user\source\repos\Kurs\Kurs\Header.h(148,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\Kurs\Kurs\Kurs.cpp(56,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Kurs.vcxproj -> C:\Users\user\source\repos\Kurs\x64\Debug\Kurs.exe
